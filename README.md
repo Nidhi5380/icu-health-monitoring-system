@@ -24,5 +24,3 @@ An IoT-based system designed to continuously monitor ICU patient vitals such as 
 - Scalable and cost-effective system
 
  **Project Type:** Final Year Project | B.Tech – Electronics & Telecommunication
-
-*Project Type:* Final Year Project | B.Tech – Electronics & Telecommunication
